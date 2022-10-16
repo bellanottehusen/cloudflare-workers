@@ -5,9 +5,10 @@
  */
 const config = {
   root_id: 'root', // root or directory id
-  client_id: '162524057780-ujb4as2j25g34eI8rQRt3th8ma0f.apps.googleusercontent.com', // faked
-  client_secret: 'XtDkt529NohNc9Oziz9IALfV', // faked
-  refresh_token: '1//0e_CgYIaRjZn8SSNwF-L9IrurlUlnFZ-_LrG18PhQBLJzi8Y8B-pHbRAAGA4UxVP-523gjk4hm7udBjkEMWYipdDfU8h7PF8Y', // faked
+  client_id: '202264815644.apps.googleusercontent.com', // faked
+  client_secret: 'X4Z3ca8xfWDb1Voo-F9a7ZxJ', // faked
+
+  refresh_token: '1//06CpqPcj556PZCgYIARAAGAYSNwF-L9Irp4MY5Yv0y9Qf8cz3R-JfBt7z788WWM8sgGVGK_PjjI-9f_m9ZzZkVeMNE82GnXc_A7g', // faked
 }
 
 /*
